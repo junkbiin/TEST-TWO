@@ -16,8 +16,7 @@ Change the non-silver space around your paragraph to have a left and bottom marg
 ![Q2](readmeimages/Q2.png)
 
 3. The following code is for a form in twitter boostrap. Add a field that allows the user to select a subject from 
-either "support," or "consulting," choices In the correct part of the file also add html so that the page will 
-display with 1:1 scale on a mobile device.
+either "support," or "consulting," choices In the correct part of the file also add html so that the page will display with 1:1 scale on a mobile device.
 
 ![Q3](readmeimages/Q3.png)
 
